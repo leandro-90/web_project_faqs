@@ -3,6 +3,10 @@
   src: url("../assets/fonts/static/WorkSans-Bold.ttf") format("truetype");
 }
 
+body {
+  font-family: "workSans", Arial, Helvetica, sans-serif;
+}
+
 .page {
   height: 100vh;
   width: 100%;
@@ -18,13 +22,25 @@
   box-shadow: 0 0 10px black;
   margin: auto;
   border-radius: 15px;
+  padding: 30px;
 }
 
 header {
-  font-family: "WorkSans", Arial, Helvetica, sans-serif;
   font-weight: bolder;
   font-size: 50px;
-  padding: 30px;
+  margin-bottom: 30px;
+}
+
+.title-image {
+  display: flex;
+}
+
+h4 {
+  margin-right: auto;
+}
+
+p {
+  display: none;
 }
 
 .attribution {
