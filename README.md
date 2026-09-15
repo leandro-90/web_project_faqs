@@ -25,6 +25,5 @@ O **FAQ - Perguntas Frequentes sobre Projetos Web** é uma aplicação web focad
 
 ## 🎨 Pré-visualização
 
-> 📍 *Adicione uma captura de tela ou GIF animado do projeto rodando aqui.*
 > <img width="1259" height="612" alt="image" src="https://github.com/user-attachments/assets/076e688a-d0d3-40b6-b512-85ad1d3d202f" />
 
