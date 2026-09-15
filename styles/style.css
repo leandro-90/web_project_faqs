@@ -41,6 +41,9 @@ h4 {
 
 p {
   display: none;
+  font-size: 14px;
+  line-height: 25px;
+  margin-top: 0;
 }
 
 .attribution {
