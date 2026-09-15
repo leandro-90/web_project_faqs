@@ -74,7 +74,7 @@ Basta dar um duplo clique no arquivo index.html ou abri-lo diretamente com a ext
 
 ## 🐱 **GitHub**
 
-- @leandro-90
+- <a href="https://github.com/leandro-90">@leandro-90</a>
 
 ## 📜 Licença
-- Este projeto é licenciado pelo Frontend Mentor (https://www.frontendmentor.io/), uma plataforma de projetos web para treinamentos de desenvolvimento web.
+- Este projeto é licenciado pelo <a href="https://www.frontendmentor.io/">Frontend Mentor</a>, uma plataforma de projetos web para treinamentos de desenvolvimento web.
