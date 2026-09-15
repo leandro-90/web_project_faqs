@@ -24,6 +24,57 @@ O **FAQ - Perguntas Frequentes sobre Projetos Web** é uma aplicação web focad
 ---
 
 ## 🎨 Pré-visualização
+<img width="1259" height="612" alt="Captura de tela 2026-09-15 052659" src="https://github.com/user-attachments/assets/f60a9ce4-e14a-4e1d-9aac-d5d23689d681" />
 
-> <img width="1259" height="612" alt="image" src="https://github.com/user-attachments/assets/076e688a-d0d3-40b6-b512-85ad1d3d202f" />
+---
 
+## 🚀 Tecnologias Utilizadas
+
+O projeto utiliza as seguintes tecnologias:
+
+- **HTML5:** Estruturação semântica do conteúdo.
+- **CSS3:** Estilização, layout responsivo e transições.
+- **Git & GitHub:** Controle de versão e hospedagem do código fonte.
+- **JavaScript (ES6+):** Lógica e interatividade dinâmica (como a expansão/recolhimento das perguntas no formato accordion).
+
+---
+
+## 🚧 Status & Próximos Passos
+
+- [x] Estruturação base em HTML semântico
+- [x] Definição da paleta de cores e estilos CSS globais
+- [x] Adição das imagens e vetores aos títulos
+- [ ] Implementação da interatividade (sanfona/accordion) via JavaScript
+- [ ] Otimização para responsividade completa (Mobile / Desktop)
+- [ ] Deploy do projeto no GitHub Pages / Vercel
+
+---
+
+## 💻 Como Executar o Projeto Localmente
+
+### Pré-requisitos
+Você precisará apenas de um navegador web atualizado (Google Chrome, Firefox, Edge, etc.) e do `Git` instalado na sua máquina.
+
+### Passo a passo
+
+1. **Clone o repositório:**
+   ```bash
+   git clone [https://github.com/leandro-90/web_project_faqs.git](https://github.com/leandro-90/web_project_faqs.git)
+   
+2. **Acesse o diretório do projeto:**
+   ```bash
+    cd web_project_faqs
+
+3.  **Abra o projeto no navegador:**
+
+Basta dar um duplo clique no arquivo index.html ou abri-lo diretamente com a extensão Live Server no VS Code.
+
+## 📬 **Autor**
+- Desenvolvido por Leandro Ferreira.
+
+## 🐱 **GitHub**
+
+- @leandro-90
+
+## 📜 Licença
+- Este projeto é licenciado pelo FrontEndMentor (https://www.frontendmentor.io/), uma plataforma de projetos web para treinamentos de desenvolvimento web.
