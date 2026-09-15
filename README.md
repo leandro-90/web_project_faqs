@@ -77,4 +77,4 @@ Basta dar um duplo clique no arquivo index.html ou abri-lo diretamente com a ext
 - @leandro-90
 
 ## 📜 Licença
-- Este projeto é licenciado pelo FrontEndMentor (https://www.frontendmentor.io/), uma plataforma de projetos web para treinamentos de desenvolvimento web.
+- Este projeto é licenciado pelo Frontend Mentor (https://www.frontendmentor.io/), uma plataforma de projetos web para treinamentos de desenvolvimento web.
