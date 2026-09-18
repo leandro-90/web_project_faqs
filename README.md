@@ -45,7 +45,7 @@ O projeto utiliza as seguintes tecnologias:
 - [x] Estruturação base em HTML semântico
 - [x] Definição da paleta de cores e estilos CSS globais
 - [x] Adição das imagens e vetores aos títulos
-- [ ] Implementação da interatividade (sanfona/accordion) via JavaScript
+- [x] Implementação da interatividade (sanfona/accordion) via JavaScript
 - [ ] Otimização para responsividade completa (Mobile / Desktop)
 - [ ] Deploy do projeto no GitHub Pages / Vercel
 
