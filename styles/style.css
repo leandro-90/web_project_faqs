@@ -13,7 +13,7 @@ body {
   display: flex;
   background-repeat: no-repeat;
   background-image: url("../assets/images/background-pattern-desktop.svg");
-} 
+}
 
 .FAQ-box {
   width: 35%;
@@ -61,4 +61,10 @@ h4 {
 
 .attribution a {
   color: hsl(228, 45%, 44%);
+}
+
+@media screen and (max-width: 514px) {
+  .FAQ-box {
+    max-height: 550px;
+  }
 }
