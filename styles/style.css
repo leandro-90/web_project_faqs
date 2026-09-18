@@ -46,11 +46,11 @@ h4 {
   margin-top: 0;
 }
 
-.hidden {
+.display {
   display: block;
 }
 
-.image-icon {
+.hidden {
   display: none;
 }
 

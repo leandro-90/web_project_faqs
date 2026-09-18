@@ -8,18 +8,30 @@
 
 // QUANDO?
 // 1 - O usuário clicar ou no título do texto ou na imagem de "+".
+
 // ---------------------------------------------------------------------------------
 
-const questionBoxes = document.getElementsByClassName("question-boxes");
-const title = document.getElementsByClassName("title");
+const question = document.getElementsByClassName("question-boxes"); // Seleciona o bloco das questions.
+const title = document.getElementsByClassName("title"); // Seleciona o título.
 
-for (const item of questionBoxes) {
-  item.addEventListener("click", () => {
-    const image = item.getElementsByClassName("image")[0];
+for (const item of question) {
+  // Percorre cada item dentro de questions.
+
+  const title = item.getElementsByClassName("title-image")[0];
+  
+  title.addEventListener("click", () => {
+    // Adiciona um ouvinte de evento para cada item.
+    console.log(item);
+    const image = item.getElementsByClassName("icon-plus")[0];
+    console.log(image);
+    const image2 = item.getElementsByClassName("icon-minus")[0];
+    console.log(image2);
     const text = item.getElementsByClassName("text")[0];
-    const image2 = item.getElementsByClassName("image-icon")[0];
-    text.classList.toggle("hidden");
-    image.classList.toggle("image-icon");
+    console.log(text);
+    text.classList.toggle("display");
+    image.classList.toggle("display");
+    image.classList.toggle("hidden");
     image2.classList.toggle("hidden");
+    image2.classList.toggle("display");
   });
 }
