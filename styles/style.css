@@ -67,27 +67,6 @@ h4 {
   color: hsl(228, 45%, 44%);
 }
 
-@media screen and (max-width: 1440px) {
-  .FAQ-box {
-    width: 45%;
-  }
-
-  header {
-    font-size: 7em;
-    column-gap: 30px;
-    display: flex;
-  }
-
-    .questions {
-      font-size: 1.64em;
-      height: 100%;
-    }
-
-    header img {
-      width: 20%;
-    }
-}
-
 @media screen and (max-width: 586px) {
   header {
     font-size: 3em;
