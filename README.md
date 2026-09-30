@@ -40,17 +40,6 @@ O projeto utiliza as seguintes tecnologias:
 
 ---
 
-## 🚧 Status & Próximos Passos
-
-- [x] Estruturação base em HTML semântico
-- [x] Definição da paleta de cores e estilos CSS globais
-- [x] Adição das imagens e vetores aos títulos
-- [x] Implementação da interatividade (sanfona/accordion) via JavaScript
-- [x] Otimização para responsividade completa (Mobile / Desktop)
-- [x] Deploy do projeto no GitHub Pages / Vercel
-
----
-
 ## 💻 Como Executar o Projeto Localmente
 
 ### Pré-requisitos
@@ -60,10 +49,12 @@ Você precisará apenas de um navegador web atualizado (Google Chrome, Firefox, 
 ### Passo a passo
 
 1. **Clone o repositório:**
+
    ```bash
    git clone [https://github.com/leandro-90/web_project_faqs.git](https://github.com/leandro-90/web_project_faqs.git)
 
    ```
+
 2. **Acesse o diretório do projeto:**
 
    ```bash
