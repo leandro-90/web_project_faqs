@@ -30,6 +30,11 @@ header {
   margin-bottom: 30px;
 }
 
+.questions {
+  max-height: 300px;
+  overflow: auto;
+}
+
 .title-image {
   display: flex;
 }
